@@ -13,6 +13,7 @@ let function_parameters = {};
 let lines_to_eval = {};
 
 let original_code = '';
+
 let parsed_code_with_colors = {};
 
 let calculateParsedArray = {
